@@ -1,0 +1,1 @@
+CREATE TABLE courses(course_id SERIAL, course_name varchar(80), course_description varchar(80), PRIMARY KEY (course_id));
